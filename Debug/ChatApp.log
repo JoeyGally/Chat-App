@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\joey\documents\visual studio 2015\projects\chatapp\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  ChatApp.vcxproj -> C:\Users\Joey\Documents\Visual Studio 2015\Projects\ChatApp\Debug\ChatApp.exe
+  ChatApp.vcxproj -> C:\Users\Joey\Documents\Visual Studio 2015\Projects\ChatApp\Debug\ChatApp.pdb (Full PDB)
